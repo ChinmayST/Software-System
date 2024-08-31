@@ -1,0 +1,2 @@
+Parent process writes to the file.
+Child process writes to the file.

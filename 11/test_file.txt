@@ -1,0 +1,4 @@
+Message written by original descriptor.
+Message written by dup descriptor.
+Message written by dup2 descriptor.
+Message written by fcntl descriptor.

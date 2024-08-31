@@ -1,0 +1,4 @@
+This is a temp file to print
+line by line
+all the lines
+abcdefg
